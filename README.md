@@ -1,18 +1,5 @@
-## Group Information
-
-| Group | MACS7 |
-|--|--|
-| Project Name | BusinessBoosters |
-
-## Members
-| Name | Banner ID | e-mail |
-|--|--|--|
-| Arshdeep Singh | B00890183 |singh.arsh@dal.ca|
-| Bansari Hitesh Shah | B00910696 | bn272375@dal.ca|
-| Bhavesh Lalwani | B00885318 | bl@dal.ca|
-| Karan Singh Rathore | B00902792 |kr202401@dal.ca|
-| Parul Raich | B00903203 | pr678267@dal.ca|
-| Sagarkumar Pankajbhai Vaghasia | B00878629 | sg682034@dal.ca|
+## Business Boosters: Mobile Application
+Created using Kotlin and Firebase
 
 
 ## Introduction
@@ -55,8 +42,7 @@ We followed a paid Udemy course,  [[22]](https://www.udemy.com/course/buildtinde
 20.  2021, Android RecyclerView in Kotlin - GeeksforGeeks. GeeksforGeeks. Retrieved November 27, 2022 from https://www.geeksforgeeks.org/android-recyclerview-in-kotlin/
 
 ### Documentation And Courses
-21.  30, October 2022. Arshdeep Singh, Bansari Hitesh Shah, Bhavesh Lalwani, Karan Singh Rathore, Parul Raich and Sagarkumar Pankajbhai Vaghasia. CSCI5708 Mobile Computing Project Design Document. Fall Term, Dalhousie University
-22. Catalin Stefan. Build a tinder clone for Android from scratch. Retrieved November 27, 2022 from https://www.udemy.com/course/buildtinder/
+21. Catalin Stefan. Build a tinder clone for Android from scratch. Retrieved November 27, 2022 from https://www.udemy.com/course/buildtinder/
 
 
 
